@@ -7,7 +7,7 @@
 	<key>classes</key>
 	<dict/>
 	<key>objectVersion</key>
-	<string>50</string>
+	<string>54</string>
 	<key>objects</key>
 	<dict>
 		<key>1498D2321E8E86230040F4C2</key>
@@ -122,7 +122,7 @@
 				<key>GCC_WARN_UNUSED_VARIABLE</key>
 				<string>YES</string>
 				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.0</string>
+				<string>11.0</string>
 				<key>MTL_ENABLE_DEBUG_INFO</key>
 				<string>NO</string>
 				<key>SDKROOT</key>
@@ -178,6 +178,8 @@
 		</dict>
 		<key>3B06AD1E1E4923F5004D2608</key>
 		<dict>
+			<key>alwaysOutOfDate</key>
+			<string>1</string>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
@@ -328,6 +330,8 @@
 		</dict>
 		<key>9740EEB61CF901F6004384FC</key>
 		<dict>
+			<key>alwaysOutOfDate</key>
+			<string>1</string>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
@@ -365,7 +369,7 @@
 			<key>attributes</key>
 			<dict>
 				<key>LastUpgradeCheck</key>
-				<string>1020</string>
+				<string>1300</string>
 				<key>ORGANIZATIONNAME</key>
 				<string></string>
 				<key>TargetAttributes</key>
@@ -722,7 +726,7 @@
 				<key>GCC_WARN_UNUSED_VARIABLE</key>
 				<string>YES</string>
 				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.0</string>
+				<string>11.0</string>
 				<key>MTL_ENABLE_DEBUG_INFO</key>
 				<string>YES</string>
 				<key>ONLY_ACTIVE_ARCH</key>
@@ -818,7 +822,7 @@
 				<key>GCC_WARN_UNUSED_VARIABLE</key>
 				<string>YES</string>
 				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>9.0</string>
+				<string>11.0</string>
 				<key>MTL_ENABLE_DEBUG_INFO</key>
 				<string>NO</string>
 				<key>SDKROOT</key>
